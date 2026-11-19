@@ -1,0 +1,11 @@
+id,nama,alamat,kecamatan,fasilitas,daya_kw,jumlah_port
+1,SPKLU PLN UP3 Tanjung Karang,"Jl. Jenderal Sudirman, Tanjung Karang",Tanjung Karang Pusat,Toilet;Musala;Ruang Tunggu,50,2
+2,SPKLU Mall Boemi Kedaton,"Jl. Pangeran Antasari, Kedaton",Kedaton,Toilet;Musala;Food Court;Parkir Luas,50,2
+3,SPKLU Transmart Lampung,"Jl. Z.A. Pagar Alam, Rajabasa",Rajabasa,Toilet;Musala;Minimarket;Kafe,25,2
+4,SPKLU Lampung City Mall,"Jl. Wolter Monginsidi, Teluk Betung",Teluk Betung Utara,Toilet;Musala;Food Court,25,1
+5,SPKLU SPBU Way Halim,"Jl. Ryacudu, Way Halim",Way Halim,Toilet;Musala;Minimarket,25,2
+6,SPKLU SPBU Sukarame,"Jl. Pramuka, Sukarame",Sukarame,Toilet;Musala;Warung Makan,22,1
+7,SPKLU Kantor PLN Panjang,"Jl. Yos Sudarso, Panjang",Panjang,Toilet;Ruang Tunggu,22,1
+8,SPKLU Hotel Bukit Randu,"Jl. Pangeran Antasari, Kedaton",Kedaton,Toilet;Restoran;Parkir Luas;Wi-Fi,50,2
+9,SPKLU Pusat Oleh-oleh Kemiling,"Jl. Imam Bonjol, Kemiling",Kemiling,Toilet;Musala;Toko Oleh-oleh,22,1
+10,SPKLU Rest Area Enggal,"Jl. Cut Nyak Dien, Enggal",Enggal,Toilet;Musala;Kafe;Wi-Fi,50,2
