@@ -1,9 +1,3 @@
-# Smart Mobility: Sistem Informasi Lokasi SPKLU Bandar Lampung
-
-Cara menjalankan (Python 3.10+, Tkinter bawaan Python, tanpa library tambahan):
-
-    python main.py                      # menjalankan aplikasi
-    python -m unittest discover -v      # menjalankan unit test
 
 ## Struktur
 | File | Isi |
